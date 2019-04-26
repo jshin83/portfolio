@@ -1,0 +1,137 @@
+@import url("font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+
+/*
+Use these fonts, linked to index
+font-family: 'Indie Flower', cursive;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Amatic SC', cursive;
+*/
+
+html, body, div, span, applet, object,
+iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
+pre, a, abbr, acronym, address, big, cite,
+code, del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b,
+u, i, center, dl, dt, dd, ol, ul, li, fieldset,
+form, label, legend, table, caption, tbody,
+tfoot, thead, tr, th, td, article, aside,
+canvas, details, embed, figure, figcaption,
+footer, header, hgroup, menu, nav, output, ruby,
+section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;}
+
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body {
+	-webkit-text-size-adjust: none;
+}
+
+mark {
+	background-color: transparent;
+	color: inherit;
+}
+
+input, select, textarea {
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	-ms-appearance: none;
+	appearance: none;
+}
+
+/*basic*/
+body {
+  background: #fff;
+  font-family: 'Fjalla One', 'Source Sans Pro', sans-serif;
+  font-size: 19pt;
+  font-weight: 300;
+  line-height: 1.75em;
+  color: #888;
+}
+
+input, textarea, select {
+  font-family: 'Fjalla One', 'Source Sans Pro', sans-serif;
+  font-size: 19pt;
+  font-weight: 300;
+  line-height: 1.75em;
+  color: #888;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Shadows Into Light', cursive, sans-serif;
+  font-weight: 300;
+  color: #666;
+  line-height: 1.5em;
+}
+
+h2 {
+  font-size: 2em;
+  letter-spacing: -1px;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+header {
+  margin: 0 0 2em 0;
+}
+
+  header > p {
+    margin: 1em 0 0 0;
+  }
+
+footer {
+  margin: 2em 0 0 0;
+}
+
+
+strong, b {
+  font-weight: 300;
+  color: #666;
+}
+
+em, i {
+  font-style: italic;
+}
+
+hr {
+border: 0;
+border-top: solid 1px #ddd;
+}
+
+blockquote {
+border-left: solid 0.5em #ddd;
+padding: 1em 0 1em 2em;
+font-style: italic;
+}
+
+
+p {
+  font-family: 'Indie Flower', cursive, sans-serif;
+}
