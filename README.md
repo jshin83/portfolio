@@ -11,4 +11,4 @@ Start time: 915
 
 Finish time: 1215
 
-Actual time needed to complete: _____
+Actual time needed to complete: ~3 hours
