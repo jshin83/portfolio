@@ -26,4 +26,4 @@
 
 **Finish time:** 11 am
 
-**Actual time needed to complete:** _____
+**Actual time needed to complete:** 1130 am
